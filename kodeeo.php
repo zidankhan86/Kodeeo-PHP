@@ -1,24 +1,24 @@
 <?php
 
-// class kodeeo{
+class kodeeo{
 
 
-// public $companyName="kodeeo Limited";
-// public $address="Sector 11 , Road 10 , House 15";
+ public $companyName="kodeeo Limited";
+ public $address="Sector 11 , Road 10 , House 15";
 
 
-// public function AddThreeNumbers(){
+ public function AddThreeNumbers(){
 
-// echo 1+2+3;
+echo 1+2+3;
 
-// }
+}
 
-// public function AddFourNumbers(){
-//    echo 1+2+3+4;
+public function AddFourNumbers(){
+   echo 1+2+3+4;
 
-// }
+ }
 
-// }
+}
 
 
 class Father{
